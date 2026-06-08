@@ -6,7 +6,7 @@ I worked on this code as a fun side project before college( which was not at all
 Coming to the "Things" you need to build an set on which you can run this:
 1.Brain(obviously)
 2.ESP32_dev_module
-3.Bread_borad(2 if possible)
+3.Bread_borad
 4.Buttons(5)
 5.0.96 Inch OLED Display Module 128×64 I2c
 6.wires
