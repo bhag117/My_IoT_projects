@@ -1,5 +1,6 @@
 # ESP-32_DOOM_GAME-sastha_version-
-Greetings to the you 'the reader', this REASME is about the code that i have uploaded( which as you know.. Why did i said that) anyways, it is about the code i(chatgpt) have written.
+Greetings to the you 'the reader', this REASME is about the code that i have uploaded( which as you know.. Why did i say
+that) anyways, it is about the code i(chatgpt) have written.
 First of all, Thanks alot for spending your time reading this, because i have seen people(lazy as...) who just completely skip this go straight to the code and copy it(like me).
 Now coming to the code(which i didnt write) ; Before i even started to work on this code i thought of creating the exact game Doom, but when i started to work on the code i came to realise that,"why not create it in my own style?"( not thats not why i didnt, it was becuz i didnt have the assets and maps of the original game so i had to improvise). So the game is not exactly the same as the og( if you have common sense that "sastha version" should tell you its not)
 I worked on this code as a fun side project before college( which was not at all fun). It was a very easy project to work on, and everyone should built one project like this( it was not at all easy it took me 1 whole week just to realise that i had faulty equipment)
