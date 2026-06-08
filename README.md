@@ -7,8 +7,8 @@ Coming to the "Things" you need to build an set on which you can run this:
 1.Brain(obviously)
 2.ESP32_dev_module
 3.Bread_borad(2 if possible)
-4.Buttons(4)
-5.MAX301026.0.96 Inch OLED Display Module 128×64 I2c
+4.Buttons(5)
+5.0.96 Inch OLED Display Module 128×64 I2c
 6.wires
 I have worked on this code with no coding knowledge(wih the help of chatgpt), so the game might feel a bit low quality(sastha version) please dont mind.
 There might be some changes to this code in future.
