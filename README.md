@@ -14,5 +14,5 @@ I have worked on this code with no coding knowledge(wih the help of chatgpt), so
 There might be some changes to this code in future.
 At the end i would like thank my team(which is only me and chatgpt)
 NOTE: This code may contain errors and might contain virus so run at your own risk(Do you seriously think i can write a code which infects your system)
-If you have any suggestions feel free to reach out to me.(If you have something to complaint then you can take and shov.......#@#@#)
+If you have any suggestions feel free to reach out to me.(If you have something to complaint then you can take the complaint and shov.......#@#@#)
 ONCE again THANK YOU!! for reading this.......
